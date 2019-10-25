@@ -1,0 +1,5 @@
+C:\Users\opilane\Desktop\lesson9\minmax\bin\Debug\minmax.exe
+C:\Users\opilane\Desktop\lesson9\minmax\bin\Debug\minmax.pdb
+C:\Users\opilane\Desktop\lesson9\minmax\obj\Debug\minmax.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\lesson9\minmax\obj\Debug\minmax.exe
+C:\Users\opilane\Desktop\lesson9\minmax\obj\Debug\minmax.pdb

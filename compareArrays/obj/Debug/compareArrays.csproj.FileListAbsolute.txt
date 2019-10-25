@@ -1,0 +1,6 @@
+C:\Users\opilane\Desktop\lesson9\compareArrays\bin\Debug\compareArrays.exe
+C:\Users\opilane\Desktop\lesson9\compareArrays\bin\Debug\compareArrays.pdb
+C:\Users\opilane\Desktop\lesson9\compareArrays\obj\Debug\compareArrays.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\lesson9\compareArrays\obj\Debug\compareArrays.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\lesson9\compareArrays\obj\Debug\compareArrays.exe
+C:\Users\opilane\Desktop\lesson9\compareArrays\obj\Debug\compareArrays.pdb

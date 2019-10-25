@@ -1,0 +1,5 @@
+C:\Users\opilane\Desktop\lesson9\arrayStaticMethods\obj\Debug\arrayStaticMethods.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\lesson9\arrayStaticMethods\bin\Debug\arrayStaticMethods.exe
+C:\Users\opilane\Desktop\lesson9\arrayStaticMethods\bin\Debug\arrayStaticMethods.pdb
+C:\Users\opilane\Desktop\lesson9\arrayStaticMethods\obj\Debug\arrayStaticMethods.exe
+C:\Users\opilane\Desktop\lesson9\arrayStaticMethods\obj\Debug\arrayStaticMethods.pdb

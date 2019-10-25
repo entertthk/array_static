@@ -1,0 +1,6 @@
+C:\Users\opilane\Desktop\lesson9\lesson9\bin\Debug\lesson9.exe
+C:\Users\opilane\Desktop\lesson9\lesson9\bin\Debug\lesson9.pdb
+C:\Users\opilane\Desktop\lesson9\lesson9\obj\Debug\lesson9.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\lesson9\lesson9\obj\Debug\lesson9.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\lesson9\lesson9\obj\Debug\lesson9.exe
+C:\Users\opilane\Desktop\lesson9\lesson9\obj\Debug\lesson9.pdb

@@ -1,0 +1,6 @@
+C:\Users\opilane\Desktop\lesson9\arrayStatic2\obj\Debug\arrayStatic2.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\lesson9\arrayStatic2\bin\Debug\arrayStatic2.exe
+C:\Users\opilane\Desktop\lesson9\arrayStatic2\bin\Debug\arrayStatic2.pdb
+C:\Users\opilane\Desktop\lesson9\arrayStatic2\obj\Debug\arrayStatic2.exe
+C:\Users\opilane\Desktop\lesson9\arrayStatic2\obj\Debug\arrayStatic2.pdb
+C:\Users\opilane\Desktop\lesson9\arrayStatic2\obj\Debug\arrayStatic2.csprojResolveAssemblyReference.cache
